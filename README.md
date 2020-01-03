@@ -1,2 +1,0 @@
-# ldsxpress-app
-Client Side
